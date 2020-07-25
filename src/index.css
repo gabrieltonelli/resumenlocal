@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    }
+.cards-container{   
+    height: calc(100vh - 120px) !important;
+    overflow-y: scroll;
+}
+.cards{   
+    margin: 20px 0;
+}

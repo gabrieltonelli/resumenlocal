@@ -1,0 +1,11 @@
+{
+  "short_name": "Resumen Local",
+  "name": "Los portales de noticias de tu ciudad en un solo lugar!",
+  "icons": [
+
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
